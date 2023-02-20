@@ -1,0 +1,6 @@
+module Pods_MoonValley_MoonValleyTests {
+  umbrella header "Pods-MoonValley-MoonValleyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

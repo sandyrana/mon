@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_domserializer_node_modules_entities_lib_maps_entities.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_domserializer_node_modules_entities_lib_maps_entities.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_registerbg.jpg.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-mdpi/assets_images_registerbg.jpg"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_hedge.jpg.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-mdpi/assets_images_hedge.jpg"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_antdesign.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_antdesign.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_shareimage.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-mdpi/assets_images_shareimage.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_axios_package.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_axios_package.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativerenderhtml_node_modules_entities_lib_maps_entities.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativerenderhtml_node_modules_entities_lib_maps_entities.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_awssdk_apis_s320060301waiters2.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_awssdk_apis_s320060301waiters2.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_littlejohn.jpg.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-mdpi/assets_images_littlejohn.jpg"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativerouterflux_images_back_chevron.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-mdpi/node_modules_reactnativerouterflux_images_back_chevron.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_domserializer_node_modules_entities_lib_maps_xml.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_domserializer_node_modules_entities_lib_maps_xml.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativerouterflux_images_menu_burger.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-mdpi/node_modules_reactnativerouterflux_images_menu_burger.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_backyardgetstarted.jpg.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-mdpi/assets_images_backyardgetstarted.jpg"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_dist_glyphmaps_fontawesome.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativevectoricons_dist_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_app.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/app.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativehtml_transientrenderengine_node_modules_entities_lib_maps_decode.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_nativehtml_transientrenderengine_node_modules_entities_lib_maps_decode.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_domserializer_node_modules_entities_lib_maps_legacy.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_domserializer_node_modules_entities_lib_maps_legacy.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativerenderhtml_node_modules_entities_lib_maps_decode.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativerenderhtml_node_modules_entities_lib_maps_decode.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_user_name_icon.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-mdpi/assets_images_user_name_icon.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_backyardbuilderfallback.jpg.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-mdpi/assets_images_backyardbuilderfallback.jpg"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_close.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-mdpi/assets_images_close.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_password_icon.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-mdpi/assets_images_password_icon.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativehtml_transientrenderengine_node_modules_entities_lib_maps_entities.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_nativehtml_transientrenderengine_node_modules_entities_lib_maps_entities.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_mvn.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-mdpi/assets_images_mvn.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_awssdk_apis_cognitoidentity20140630paginators.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_awssdk_apis_cognitoidentity20140630paginators.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_awssdk_lib_region_config_data.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_awssdk_lib_region_config_data.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_csscolorkeywords_colors.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_csscolorkeywords_colors.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_fontisto.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontisto.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_awssdk_apis_sts20110615min.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_awssdk_apis_sts20110615min.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_characterentitieslegacy_index.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_characterentitieslegacy_index.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_assets_images_backyardbuilderbg2.mp4.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/assets_images_backyardbuilderbg2.mp4"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativehtml_transientrenderengine_node_modules_entities_lib_maps_xml.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_nativehtml_transientrenderengine_node_modules_entities_lib_maps_xml.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativehtml_transientrenderengine_node_modules_entities_lib_maps_legacy.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_nativehtml_transientrenderengine_node_modules_entities_lib_maps_legacy.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_awssdk_apis_sts20110615paginators.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_awssdk_apis_sts20110615paginators.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_momenttimezone_data_packed_latest.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_momenttimezone_data_packed_latest.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_awssdk_apis_s320060301paginators.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_awssdk_apis_s320060301paginators.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativedropdownpicker_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativedropdownpicker_node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativerenderhtml_node_modules_entities_lib_maps_legacy.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativerenderhtml_node_modules_entities_lib_maps_legacy.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_awssdk_apis_metadata.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_awssdk_apis_metadata.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_domserializer_node_modules_entities_lib_maps_decode.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_domserializer_node_modules_entities_lib_maps_decode.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_awssdk_apis_cognitoidentity20140630min.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_awssdk_apis_cognitoidentity20140630min.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_stringifyentities_lib_constant_dangerous.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_stringifyentities_lib_constant_dangerous.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_characterentitieshtml4_index.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_characterentitieshtml4_index.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativerenderhtml_node_modules_entities_lib_maps_xml.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativerenderhtml_node_modules_entities_lib_maps_xml.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_reactnativestarrating_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sandeep/mvnapp-master/moonvalley/android/app/build/intermediates/res/merged/debug/raw_node_modules_awssdk_apis_s320060301min.json.flat",
+        "source": "/Users/sandeep/mvnapp-master/moonvalley/android/app/src/main/res/raw/node_modules_awssdk_apis_s320060301min.json"
+    }
+]
